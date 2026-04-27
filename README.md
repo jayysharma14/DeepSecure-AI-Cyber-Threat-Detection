@@ -14,3 +14,13 @@ Seaborn
 Logistic Regression
 Decision Tree
 Random Forest
+
+**Features**
+Data preprocessing and cleaning
+Feature scaling
+Model training and evaluation
+Confusion matrix visualization
+Feature importance analysis
+
+**Results**
+Random Forest achieved the highest accuracy among all models, making it the best choice for intrusion detection.
